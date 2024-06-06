@@ -1,4 +1,4 @@
-package Abstraction;
+package Abstraction.Java;
 
 // Abstract class Calculator that contains the structure for a basic calculator
 public abstract class Calculator {
@@ -21,4 +21,3 @@ public abstract class Calculator {
         result = 0;
     }
 }
-

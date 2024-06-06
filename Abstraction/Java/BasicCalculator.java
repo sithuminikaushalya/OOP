@@ -1,4 +1,4 @@
-package Abstraction;
+package Abstraction.Java;
 
 // BasicCalculator class that extends the abstract class Calculator
 public class BasicCalculator extends Calculator {
@@ -32,3 +32,4 @@ public class BasicCalculator extends Calculator {
         System.out.println("Result after reset: " + calc.getResult());
     }
 }
+
